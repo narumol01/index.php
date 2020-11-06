@@ -1,11 +1,7 @@
 <?php
 echo '<html>';
-echo '<head>';
-echo '<title>';
-echo '<h1>Narumol Thongchue ANGPAO</h1>';
-echo '</title>';
-echo '</head>';
 echo '<body>';
+echo '<h1>Narumol Thongchue ANGPAO</h1>';
 echo '<img src="https://i.redd.it/1procftja2s21.jpg">';
 echo '<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYGDPRSDJtE6_7zExoal-ECCi5MmhpfOxKNQ&usqp=CAU">';
 echo '<br>';
